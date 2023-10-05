@@ -1,0 +1,1 @@
+UPDATE items SET value = 200, name = 'Item 1' WHERE id = 1;
