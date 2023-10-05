@@ -1,0 +1,22 @@
+Thu Oct 05 10:24:23 BRT 2023 main threw an exception:
+java.lang.RuntimeException: Camada de colisão não encontrada no mapa.
+	at com.poc.game.gui.screens.IngameScreen.<init>(IngameScreen.java:30)
+	at com.poc.game.gui.controllers.GameController.addScreens(GameController.java:46)
+	at com.poc.game.gui.controllers.GameController.bootstrap(GameController.java:22)
+	at com.poc.game.GameApplication.main(GameApplication.java:7)
+
+====Runtime Information====
+Operating System: Linux
+	Architecture: amd64
+	Version: 5.15.0-83-generic
+Memory:
+	Max heap size: 1.9 GiB
+	Current heap size: 126.0 MiB
+	Heap used: 15.4 MiB
+	Free heap: 110.6 MiB
+Java Version: OpenJDK Runtime Environment 20.0.2+9-78 
+	Vendor: Oracle Corporation
+Uptime: PT1.513S
+Screens: 1
+	Screen 0: 2560x1080@60hz
+

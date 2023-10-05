@@ -1,7 +1,7 @@
-package com.poc.game.application.services;
+package com.poc.game.backend.application.services;
 
-import com.poc.game.domain.entities.Item;
-import com.poc.game.domain.repositories.ItemRepositoryImpl;
+import com.poc.game.backend.domain.entities.Item;
+import com.poc.game.backend.domain.repositories.ItemRepositoryImpl;
 
 import java.util.List;
 

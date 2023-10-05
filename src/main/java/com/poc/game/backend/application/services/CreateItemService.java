@@ -1,8 +1,8 @@
-package com.poc.game.application.services;
+package com.poc.game.backend.application.services;
 
-import com.poc.game.domain.dtos.CreateItemDTO;
-import com.poc.game.domain.repositories.ItemRepositoryImpl;
-import com.poc.game.utils.NameNormalizer;
+import com.poc.game.backend.domain.dtos.CreateItemDTO;
+import com.poc.game.backend.domain.repositories.ItemRepositoryImpl;
+import com.poc.game.backend.utils.NameNormalizer;
 
 public class CreateItemService {
     private final ItemRepositoryImpl repository;

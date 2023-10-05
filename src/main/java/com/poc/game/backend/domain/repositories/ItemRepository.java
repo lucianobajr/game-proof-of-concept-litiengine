@@ -1,7 +1,7 @@
-package com.poc.game.domain.repositories;
+package com.poc.game.backend.domain.repositories;
 
-import com.poc.game.domain.dtos.CreateItemDTO;
-import com.poc.game.domain.entities.Item;
+import com.poc.game.backend.domain.dtos.CreateItemDTO;
+import com.poc.game.backend.domain.entities.Item;
 
 import java.util.List;
 

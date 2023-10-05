@@ -1,4 +1,4 @@
-package com.poc.game.domain.dtos;
+package com.poc.game.backend.domain.dtos;
 
 import lombok.Data;
 

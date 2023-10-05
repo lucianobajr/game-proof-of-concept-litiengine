@@ -1,4 +1,4 @@
-package com.poc.game.infra.database;
+package com.poc.game.backend.infra.database;
 
 import io.github.cdimascio.dotenv.Dotenv;
 

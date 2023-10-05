@@ -1,4 +1,4 @@
-package com.poc.game.domain.entities;
+package com.poc.game.backend.domain.entities;
 
 import lombok.Data;
 

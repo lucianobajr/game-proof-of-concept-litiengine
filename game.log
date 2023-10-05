@@ -96,3 +96,13 @@ Oct 04, 2023 10:52:12 PM de.gurkenlabs.litiengine.resources.Sounds load
 SEVERE: The audio file file:/home/luciano/Documentos/game-proof-of-concept/game/audio/get_coin.wav could not be loaded.
 Oct 04, 2023 11:00:40 PM de.gurkenlabs.litiengine.resources.Sounds load
 SEVERE: The audio file file:/home/luciano/Documentos/game-proof-of-concept/game/audio/get_coin.ogg could not be loaded.
+Oct 05, 2023 10:24:23 AM de.gurkenlabs.litiengine.DefaultUncaughtExceptionHandler uncaughtException
+SEVERE: Game crashed! :(
+java.lang.RuntimeException: Camada de colisão não encontrada no mapa.
+	at com.poc.game.gui.screens.IngameScreen.<init>(IngameScreen.java:30)
+	at com.poc.game.gui.controllers.GameController.addScreens(GameController.java:46)
+	at com.poc.game.gui.controllers.GameController.bootstrap(GameController.java:22)
+	at com.poc.game.GameApplication.main(GameApplication.java:7)
+
+Oct 05, 2023 12:12:34 PM de.gurkenlabs.litiengine.resources.Fonts load
+SEVERE: font file:/home/luciano/Documentos/game-proof-of-concept/game/your-font-name could not be loaded

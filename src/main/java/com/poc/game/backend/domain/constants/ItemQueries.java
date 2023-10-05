@@ -1,4 +1,4 @@
-package com.poc.game.domain.constants;
+package com.poc.game.backend.domain.constants;
 
 public class ItemQueries {
     public static final String QUERY_SELECT_ITEMS = "SELECT * FROM items ORDER BY value;";

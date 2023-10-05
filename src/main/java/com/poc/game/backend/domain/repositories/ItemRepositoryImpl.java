@@ -1,9 +1,9 @@
-package com.poc.game.domain.repositories;
+package com.poc.game.backend.domain.repositories;
 
-import com.poc.game.domain.constants.ItemQueries;
-import com.poc.game.domain.dtos.CreateItemDTO;
-import com.poc.game.domain.entities.Item;
-import com.poc.game.infra.database.Database;
+import com.poc.game.backend.domain.constants.ItemQueries;
+import com.poc.game.backend.domain.dtos.CreateItemDTO;
+import com.poc.game.backend.domain.entities.Item;
+import com.poc.game.backend.infra.database.Database;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

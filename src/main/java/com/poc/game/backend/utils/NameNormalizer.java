@@ -1,4 +1,4 @@
-package com.poc.game.utils;
+package com.poc.game.backend.utils;
 
 import java.text.Normalizer;
 import java.util.Arrays;
